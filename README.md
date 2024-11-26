@@ -6,7 +6,7 @@ This repository contains the implementation of a Text Classification system that
 
 ## Dataset
 
-The dataset contains approximately 50 000 Reviews scraped from airlinequality.com. The idea was inspired by the approach of *Maas et al., 2011* where 50 000 movie reviews from imdb.com were scraped in order to have more robust benchmark for the task of Sentiment Analysis.
+The dataset contains approximately 50 000 Reviews scraped from airlinequality.com. The idea was inspired by the approach of *Maas et al., 2011* where 50 000 movie reviews from imdb.com were scraped in order to have more robust benchmark for the task of Sentiment Analysis. As the movie dataset, the document contains an even number of negative and positive reviews. The threshold where a review is regarded as 'negative' is set to ≤ 4 and for positive reviews to ≥ 7, just as the aforementioned paper, as both review sites share the same rating system. These preliminary considerations where take into account in my dataset to ensure comparability.
 
 ## Features
 
