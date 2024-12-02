@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains the implementation of a Text Classification system that categorizes textual data into predefined labels. It leverages modern machine learning and natural language processing (NLP) techniques to achieve high accuracy and scalability
+This repository contains the implementation of several models for the novel task of binary text classification. The models categorizes text documents into predefined labels. It leverages modern machine learning and natural language processing (NLP) techniques to achieve high accuracy and scalability
 
 ## Dataset
 
