@@ -18,19 +18,8 @@ Several models where trained by either fully training/fine-tuning or few-shot le
     - Naive Bayes
     - Logistic Regression
     - Support Vector Machines 
-- Deep Learning Approach
-    - RNN-LSTM
-    - RNN-GRU
-        - including Word Embeddings using GloVe and Word2Vec
-    - GCN
-- Large Language Models
+- Pretreained Language Model
     - BERT
-    - T5 and Flan-T5 
-- Few-Shot Learning
-    - GPT-4
-    - Llama 3.1
-    - Mistral
-    - Gemma:7b
 
 ## Citations
 1. Maas, A. L., Daly, R. E., Pham, P. T., Huang, D., Ng, A. Y., & Potts, C. (2011). 
